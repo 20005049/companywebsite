@@ -243,19 +243,19 @@ Publish the website in the given URL.
 ```
 ###
 ## OUTPUT:
-![output](./static/img/Screenshot(18).png)
+![output](./static/img/Screenshot(18).jpg)
 
-![output](./static/img/Screenshot1.png)
+![output2](./static/img/screenshot1.png)
 
-![output](./static/img/Screenshot20.png)
+![output3](./static/img/screenshot20.png)
 
-![output](./static/img/Screenshot21.png)
+![output4](./static/img/screenshot21.png)
 
-![output](./static/img/Screenshot22.png)
+![output5](./static/img/screenshot22.png)
 
 ## CODE VALIDATION REPORT:
-![output](./static/img/Screenshot23.png)
+![output](./static/img/screenshot23.png)
 
-![output](./static/img/Screenshot24.png)
+![output](./static/img/screenshot24.png)
 ## RESULT:
 Thus a website is designed for the chip manufacturing company and is hosted in the URL http://sriharish.student.saveetha.in:8000/. HTML code is validated.
