@@ -254,8 +254,8 @@ Publish the website in the given URL.
 ![output](./static/img/screenshot22.png)
 
 ## CODE VALIDATION REPORT:
-![output](./static/img/report1.png)
+![output](./static/img/screenshot23.png)
 
-![output](./static/img/report2.png)
+![output](./static/img/screenshot24.png)
 ## RESULT:
 Thus a website is designed for the chip manufacturing company and is hosted in the URL http://sriharish.student.saveetha.in:8000/. HTML code is validated.
